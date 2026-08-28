@@ -35,7 +35,7 @@ Successfully launched a live, interactive HR Intelligence Dashboard. The tool al
 
 ### 2. 3D Role Stagnation & Experience Mapping
 > *(Add your screenshot here showing the 3D Scatter Plot with the dark mode fix)*
-![3D Stagnation Mapping](link-to-screenshot-2)
+![image alt].(https://github.com/user-attachments/assets/9e7ac552-496b-4b0a-bc3e-274f7c2d1428)
 
 ### 3. Career Segment Distribution
 > *(Add your screenshot here showing the Bar Chart and clear legends)*
